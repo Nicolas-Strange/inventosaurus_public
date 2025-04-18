@@ -8,4 +8,4 @@ No personal user data is stored or exposed.
 
 This policy applies only to the use of Amazon APIs via the Inventosaurus application.
 
-Contact: support@yourdomain.com
+Contact: nicolas.l@nihinessentialshub.com
